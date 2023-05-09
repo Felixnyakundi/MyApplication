@@ -43,5 +43,5 @@ fun GreetingPreview() {
     MyApplicationTheme {
         Greeting("Andrfoid")
     }
-    // comment in Branch B
+    // comment in Branch B section b
 }
